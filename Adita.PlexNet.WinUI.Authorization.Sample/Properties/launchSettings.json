@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Adita.PlexNet.WinUI.Authorization.Sample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Adita.PlexNet.WinUI.Authorization.Sample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
