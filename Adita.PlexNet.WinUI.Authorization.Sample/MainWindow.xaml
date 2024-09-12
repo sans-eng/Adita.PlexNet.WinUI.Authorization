@@ -13,7 +13,7 @@
     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
         <Button x:Name="myButton" Click="myButton_Click">Click Me
             <i:Interaction.Behaviors>
-                <authBehavior:AuthorizeBehavior />
+                <authBehavior:AuthorizeBehavior Roles="Administrator;Maintainer"/>
             </i:Interaction.Behaviors>
         </Button>
     </StackPanel>
