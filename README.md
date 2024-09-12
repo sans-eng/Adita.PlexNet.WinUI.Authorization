@@ -5,7 +5,7 @@ This library is designed to work with:
 - `Adita.PlexNet.Core.Identity.EntityFrameworkCore`
 - `Adita.PlexNet.Core.Security`
 
-Tou can learn about The PlexNet Identity [here](https://github.com/sans-eng/Adita.PlexNet.Core.Identity).
+You can learn about The PlexNet Identity [here](https://github.com/sans-eng/Adita.PlexNet.Core.Identity).
 
 ## How to use
 
