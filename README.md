@@ -20,7 +20,7 @@ Then you ready to use the behavior class in any `UIElement`, e.g.:
 ```
 <Button>Click Me
     <i:Interaction.Behaviors>
-        <authBehavior:AuthorizeBehavior />
+        <authBehavior:AuthorizeBehavior Roles="Administrator;Maintainer"/>
     </i:Interaction.Behaviors>
 </Button>
 ```
