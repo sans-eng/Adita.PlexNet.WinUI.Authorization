@@ -26,7 +26,7 @@ using System.Threading;
 using System;
 using System.Security.Principal;
 
-namespace Adita.PlexNet.WinUI.Authorization.Assists
+namespace Adita.PlexNet.WinUI.Authorization.Behaviors
 {
     /// <summary>
     /// Represents an authorization for a <see cref="UIElement"/>.
