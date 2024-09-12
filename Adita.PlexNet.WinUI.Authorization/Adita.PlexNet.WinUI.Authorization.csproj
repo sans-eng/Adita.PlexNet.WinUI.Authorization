@@ -16,9 +16,18 @@
     <PackageIcon>favicon.png</PackageIcon>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <Nullable>Enable</Nullable>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/sans-eng/Adita.PlexNet.WinUI.Authorization</RepositoryUrl>
+    <PackageTags>Authorization; WinUI3;</PackageTags>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/sans-eng/Adita.PlexNet.WinUI.Authorization</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\favicon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
